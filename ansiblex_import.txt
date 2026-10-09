@@ -36,9 +36,3 @@
 # Feythabolis
 0 Y-YGMW  -->  K-J50B  
 0 K-J50B  -->  Y-YGMW
-
-0 x  -->  x 
-0 x  -->  x
-
-0 x  -->  x 
-0 x  -->  x
